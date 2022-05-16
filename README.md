@@ -1,5 +1,3 @@
 # test
-testing
-<?php
-echo "Hello";
-?>
+Hello testing
+# readme edit
